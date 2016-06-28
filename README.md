@@ -1,7 +1,6 @@
 # U-Food
 
-![alt text](http://i.imgur.com/VmrqYDE.png "Logo")
-
+![Imgur](http://i.imgur.com/TczM920.jpg)
 
 UFood es una solución integral que evita las largas esperas en los restaurantes.
 Integra 4 aplicaciones que solucionan las distintas fases de la preparación de la comida, su entrega y su cobro.
