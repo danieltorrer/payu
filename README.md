@@ -14,3 +14,8 @@ La idea es que este sistema no solo logre una mejor gestión de la comida y las 
 ![Imgur](http://i.imgur.com/IGia2gP.jpg)
 
 ![Imgur](http://i.imgur.com/djZH5qe.jpg)
+
+
+## API REST
+El servicio web será el encargado de manejar la información de los usuarios, los menus y los pedidos.
+Además alimentará las aplicaciones web y recibirá datos de las aplicaciones móviles. Este tipo de tecnología permite expandir el funcionamiento del servicio sin afectar las aplicaciones existentes, así como incluir más dispositivos y servicios de manera sencilla
