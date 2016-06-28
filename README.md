@@ -13,4 +13,6 @@ La idea es que este sistema no solo logre una mejor gestión de la comida y las 
 
 ![Imgur](http://i.imgur.com/IGia2gP.jpg)
 
+Cada pedido realizado será enviado a un panel web en tiempo real una vez que el cliente haya realizado un check in en el lugar de esta manera podemos llevar un control de los pedidos diarios así como de los activos de cada negocio por parte del cajero, además cada preparador de comida verá en tiempo real las ordenes que debe preparar y las podrá marcar como listas para que pasen a la zona de entrega, todo esto por medio de sockets
+
 ![Imgur](http://i.imgur.com/djZH5qe.jpg)
